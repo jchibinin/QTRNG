@@ -18,7 +18,7 @@
 
 - создание схемы на основе RP и сборĸа
 - проведение тестов и анализ полученных результатов
-- оптимизация параметров (длительность генерации, частота обработĸи 2Mhz-10Khz) по результатам тестирования + перечисление тестов nist https://github.com/InsaneMonster/NistRng
+- оптимизация параметров (длительность генерации, частота обработĸи 2Mhz-10Khz) по результатам тестирования + перечисление тестов NistRng https://github.com/InsaneMonster/NistRng на основе https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-22r1a.pdf 
 
 ## Алгоритм работы
 
@@ -42,4 +42,6 @@
 ![image](https://github.com/user-attachments/assets/b3b149bb-a87d-4290-960c-2646fe9cdf6c)
 
   
+## Результаты тестов
+https://docs.google.com/spreadsheets/d/1knEWK8xAGUJqV8_xWbCUxnVN0tVMszOJOGWEIg5BH2o/edit?usp=sharing
 
