@@ -1,4 +1,4 @@
-# QTRNG проект Афины Ибрагимовой (ВсОШ)
+# QTRNG проект (ВсОШ)
 Квантовый генератор истинно случайных чисел (QTRNG)
 ![image](https://github.com/user-attachments/assets/f65a07a3-3992-4f9a-b4f7-b0398950a4c3)
 
